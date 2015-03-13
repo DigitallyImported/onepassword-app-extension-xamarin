@@ -1,0 +1,3 @@
+[submodule "OnePassword/1PasswordExtension"]
+	path = OnePassword/1PasswordExtension
+	url = https://github.com/AgileBits/onepassword-app-extension
